@@ -1,21 +1,34 @@
 {
-  "phien_ban": "2bde529",
-  "so_ban": "1.3",
+  "phien_ban": "6fac25e",
+  "so_ban": "1.4",
   "ngay": "30/9/2026",
-  "ghi_chu": "Thêm được tối đa 2 tài khoản Google dự phòng: tài khoản chính hết lượt hỏi thì biên bản cuối tự soạn bằng tài khoản dự phòng.",
+  "ghi_chu": "Cài mới nhanh hơn nhiều nhờ gói cài đầy đủ (không cần mạng lúc cài). Lúc cài chỉ kiểm nhanh vài giây. Thẻ Cài đặt thêm nút Kiểm tra toàn bộ. Mac chưa có Chrome tự tải trình duyệt ở lần đăng nhập Google đầu tiên.",
   "cac_ban_truoc": [
     "a5a8c2c",
     "9ff03ca",
-    "e15e4bf"
+    "e15e4bf",
+    "2bde529"
   ],
   "mac": {
-    "tep": "CaiDat-SonicRec-Mac-v1.3.zip",
-    "sha256": "e9902464d8e2f7fe5307a0e01e7181ffadbbf586d628e0ad89d69f311f76b0eb",
-    "co": 753943
+    "tep": "CaiDat-SonicRec-Mac-v1.4.zip",
+    "sha256": "1a1549c8e7d10348d174e545c9e9e66081d82e8505494ef33e3007dce1042146",
+    "co": 773975
   },
   "windows": {
-    "tep": "CaiDat-SonicRec-Windows-v1.3.exe",
-    "sha256": "d582b87b72e28fcdcbaee893677879fd6f063cfd2eebea9ca65a92ad1047589a",
-    "co": 648743
+    "tep": "CaiDat-SonicRec-Windows-v1.4.exe",
+    "sha256": "97d8e5256341eaacd741abc2412317cf6b202f70a6c3a8fd43172e4a4a24aa37",
+    "co": 662761
+  },
+  "day_du": {
+    "mac_chip_m": {
+      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v1.4.zip",
+      "sha256": "96c1b18f837e996bbc838f3226b80f70a1617ddfe6226f3872bbbb4480edebfc",
+      "co": 79432818
+    },
+    "windows": {
+      "tep": "CaiDat-SonicRec-Windows-DayDu-v1.4.exe",
+      "sha256": "5626f42454eb4d1ed682b88dbcd6f33fc154f0d4aaf1cfb2455750d1d95c6545",
+      "co": 68567265
+    }
   }
 }
