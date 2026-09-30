@@ -1,20 +1,21 @@
 {
-  "phien_ban": "e15e4bf",
-  "so_ban": "1.2",
+  "phien_ban": "2bde529",
+  "so_ban": "1.3",
   "ngay": "30/9/2026",
-  "ghi_chu": "Biên bản cuối đọc thêm nguồn Thông tin buổi họp khi danh sách việc tuần trước dài, khỏi chật chỗ của ghi chú thư ký.",
+  "ghi_chu": "Thêm được tối đa 2 tài khoản Google dự phòng: tài khoản chính hết lượt hỏi thì biên bản cuối tự soạn bằng tài khoản dự phòng.",
   "cac_ban_truoc": [
     "a5a8c2c",
-    "9ff03ca"
+    "9ff03ca",
+    "e15e4bf"
   ],
   "mac": {
-    "tep": "CaiDat-SonicRec-Mac-v1.2.zip",
-    "sha256": "2eb74c610dd6a92dbee22635ebcc7c3c3580689cba1857dd33d168b006a43546",
-    "co": 741017
+    "tep": "CaiDat-SonicRec-Mac-v1.3.zip",
+    "sha256": "e9902464d8e2f7fe5307a0e01e7181ffadbbf586d628e0ad89d69f311f76b0eb",
+    "co": 753943
   },
   "windows": {
-    "tep": "CaiDat-SonicRec-Windows-v1.2.exe",
-    "sha256": "0a437847b2007e45c9de0a0d0180e13a3a499bb1f2285299f86ca03ae90ecb30",
-    "co": 639393
+    "tep": "CaiDat-SonicRec-Windows-v1.3.exe",
+    "sha256": "d582b87b72e28fcdcbaee893677879fd6f063cfd2eebea9ca65a92ad1047589a",
+    "co": 648743
   }
 }
