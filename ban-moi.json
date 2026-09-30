@@ -1,0 +1,17 @@
+{
+  "phien_ban": "a5a8c2c",
+  "so_ban": "1",
+  "ngay": "30/9/2026",
+  "ghi_chu": "Phông chữ, logo và màu mới. Từ bản này phiên bản đánh số v1, v1.1, v2...",
+  "cac_ban_truoc": [],
+  "mac": {
+    "tep": "CaiDat-SonicRec-Mac-v1.zip",
+    "sha256": "f0ef37eced222a2c30ffb4878ae6385b32478d931e5866e88bffffb7640d1f3f",
+    "co": 733590
+  },
+  "windows": {
+    "tep": "CaiDat-SonicRec-Windows-v1.exe",
+    "sha256": "c235d7a6657fd5be7f3230a45c75a3c6bc04d966feba825246cc958740f1ef5a",
+    "co": 634111
+  }
+}
