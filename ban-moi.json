@@ -1,34 +1,35 @@
 {
-  "phien_ban": "6fac25e",
-  "so_ban": "1.4",
+  "phien_ban": "0e26c2d",
+  "so_ban": "1.5",
   "ngay": "30/9/2026",
-  "ghi_chu": "Cài mới nhanh hơn nhiều nhờ gói cài đầy đủ (không cần mạng lúc cài). Lúc cài chỉ kiểm nhanh vài giây. Thẻ Cài đặt thêm nút Kiểm tra toàn bộ. Mac chưa có Chrome tự tải trình duyệt ở lần đăng nhập Google đầu tiên.",
+  "ghi_chu": "Trợ lý tự gửi lại khi gửi hỏng vì mạng chớp: tài liệu cho trợ lý gửi lại tối đa 3 lần, đoạn gửi hỏng thì thử lại sau 1 phút rồi 2 phút, nghỉ rồi vẫn thử mỗi nhịp, khỏi bấm Tóm tắt ngay. Nhật ký cuộc họp ghi lần hỏng để dễ tra. Cách dùng giữ nguyên.",
   "cac_ban_truoc": [
     "a5a8c2c",
     "9ff03ca",
     "e15e4bf",
-    "2bde529"
+    "2bde529",
+    "6fac25e"
   ],
   "mac": {
-    "tep": "CaiDat-SonicRec-Mac-v1.4.zip",
-    "sha256": "1a1549c8e7d10348d174e545c9e9e66081d82e8505494ef33e3007dce1042146",
-    "co": 773975
+    "tep": "CaiDat-SonicRec-Mac-v1.5.zip",
+    "sha256": "b9ac91cf312488d7a169dd6294d00500adbd74824ebf6f834444e7bd9bf5c682",
+    "co": 779859
   },
   "windows": {
-    "tep": "CaiDat-SonicRec-Windows-v1.4.exe",
-    "sha256": "97d8e5256341eaacd741abc2412317cf6b202f70a6c3a8fd43172e4a4a24aa37",
-    "co": 662761
+    "tep": "CaiDat-SonicRec-Windows-v1.5.exe",
+    "sha256": "b1d1decd71871c56490aeb8ea5e4c47d124ec1093e246881ef8855376d14659f",
+    "co": 666820
   },
   "day_du": {
     "mac_chip_m": {
-      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v1.4.zip",
-      "sha256": "96c1b18f837e996bbc838f3226b80f70a1617ddfe6226f3872bbbb4480edebfc",
-      "co": 79432818
+      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v1.5.zip",
+      "sha256": "2bffa8f94841ca991b5cb6a184d1dfdedb8670eece8cb29ee4e1e07db45fa4ff",
+      "co": 79438702
     },
     "windows": {
-      "tep": "CaiDat-SonicRec-Windows-DayDu-v1.4.exe",
-      "sha256": "5626f42454eb4d1ed682b88dbcd6f33fc154f0d4aaf1cfb2455750d1d95c6545",
-      "co": 68567265
+      "tep": "CaiDat-SonicRec-Windows-DayDu-v1.5.exe",
+      "sha256": "05f11bc4e3f3a6bce1db3de296361eb02001db1e69ba9570ede8b20180214530",
+      "co": 68583031
     }
   }
 }
