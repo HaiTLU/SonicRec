@@ -4,6 +4,13 @@ Kho này chỉ giữ bản cài mới nhất của ứng dụng SonicRec: ghi â
 
 Bản mới nhất: **v1.6**, ngày 1/10/2026. Sửa lỗi Windows: icon cửa sổ phải là .ico
 
+Cài lần đầu cho máy mới (gói đầy đủ, mang sẵn mọi thứ, cài khoảng một phút và không cần mạng):
+
+- Máy Windows: [CaiDat-SonicRec-Windows-DayDu-v1.6.exe](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Windows-DayDu-v1.6.exe)
+- Máy Mac chip Apple (M1 trở lên): [CaiDat-SonicRec-MacChipM-DayDu-v1.6.zip](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-MacChipM-DayDu-v1.6.zip)
+
+Gói nhỏ dưới đây cài cần mạng nên lâu hơn; máy Mac chip Intel dùng gói nhỏ:
+
 - Máy Mac: [CaiDat-SonicRec-Mac-v1.6.zip](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Mac-v1.6.zip)
 - Máy Windows: [CaiDat-SonicRec-Windows-v1.6.exe](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Windows-v1.6.exe)
 
