@@ -2,7 +2,7 @@
 
 Kho này chỉ giữ bản cài mới nhất của ứng dụng SonicRec: ghi âm cuộc họp và soạn biên bản (Trường Đại học Thăng Long). Ứng dụng đã cài đọc kho này để tự báo khi có bản mới. Mã nguồn không nằm ở đây.
 
-Bản mới nhất: **v1.6**, ngày 1/10/2026. Sửa lỗi Windows: icon cửa sổ phải là .ico
+Bản mới nhất: **v1.6**, ngày 1/10/2026. Sửa lỗi máy Windows cài xong không mở được ứng dụng. Cách dùng giữ nguyên.
 
 Cài lần đầu cho máy mới (gói đầy đủ, mang sẵn mọi thứ, cài khoảng một phút và không cần mạng):
 
