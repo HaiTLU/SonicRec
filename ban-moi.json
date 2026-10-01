@@ -20,5 +20,17 @@
     "tep": "CaiDat-SonicRec-Windows-v1.6.exe",
     "sha256": "525de551a9856b518ec716a1f882fe08ccd70ce6085ba840bedfbf3fdb9c2d3d",
     "co": 667281
+  },
+  "day_du": {
+    "mac_chip_m": {
+      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v1.6.zip",
+      "sha256": "68628ca361dba3f58d7a93ac8e7f88245d6b6d7ea149cb3fad52483b222679ba",
+      "co": 79416204
+    },
+    "windows": {
+      "tep": "CaiDat-SonicRec-Windows-DayDu-v1.6.exe",
+      "sha256": "6d45f41fbff40bd6db686ad666956eeb587473b095e8b8c607838b93ce23a14a",
+      "co": 68576044
+    }
   }
 }
