@@ -1,36 +1,37 @@
 {
-  "phien_ban": "7274a3a",
-  "so_ban": "1.6",
+  "phien_ban": "52e4764",
+  "so_ban": "1.7",
   "ngay": "1/10/2026",
-  "ghi_chu": "Sửa lỗi máy Windows cài xong không mở được ứng dụng. Cách dùng giữ nguyên.",
+  "ghi_chu": "Không còn chữ [cần kiểm tra] trong biên bản: chỗ cần kiểm tra được gạch chân, bấm vào để xem câu gốc trong bản chép lời (trong tệp Word là bình luận bên lề). Trong tệp Word, bấm vào [chưa rõ ai nói] để chọn tên người phát biểu.",
   "cac_ban_truoc": [
     "a5a8c2c",
     "9ff03ca",
     "e15e4bf",
     "2bde529",
     "6fac25e",
-    "0e26c2d"
+    "0e26c2d",
+    "7274a3a"
   ],
   "mac": {
-    "tep": "CaiDat-SonicRec-Mac-v1.6.zip",
-    "sha256": "b85a3d0615cc1224848a8f2f32b9209e2fa12c63793ed756b32f9bff0fab321a",
-    "co": 780498
+    "tep": "CaiDat-SonicRec-Mac-v1.7.zip",
+    "sha256": "2a729011b51968b7d28d374c2f1ffe2e80766fe1dd044ddf414ccbdd887d8181",
+    "co": 791312
   },
   "windows": {
-    "tep": "CaiDat-SonicRec-Windows-v1.6.exe",
-    "sha256": "525de551a9856b518ec716a1f882fe08ccd70ce6085ba840bedfbf3fdb9c2d3d",
-    "co": 667281
+    "tep": "CaiDat-SonicRec-Windows-v1.7.exe",
+    "sha256": "b7ef219000c0bc5f9308a3aec6bf2599974f3755189147aff499dd0bb69c4891",
+    "co": 675878
   },
   "day_du": {
     "mac_chip_m": {
-      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v1.6.zip",
-      "sha256": "68628ca361dba3f58d7a93ac8e7f88245d6b6d7ea149cb3fad52483b222679ba",
-      "co": 79416204
+      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v1.7.zip",
+      "sha256": "1e3377475d0ad81ceb81c3c20c9d368b564c0f98afa317921e8ef2cb0a2cebf3",
+      "co": 79450154
     },
     "windows": {
-      "tep": "CaiDat-SonicRec-Windows-DayDu-v1.6.exe",
-      "sha256": "6d45f41fbff40bd6db686ad666956eeb587473b095e8b8c607838b93ce23a14a",
-      "co": 68576044
+      "tep": "CaiDat-SonicRec-Windows-DayDu-v1.7.exe",
+      "sha256": "01422c1775520723dea9bd518170156908574cb69a1d126a154cb4cd039eba8c",
+      "co": 68591031
     }
   }
 }
