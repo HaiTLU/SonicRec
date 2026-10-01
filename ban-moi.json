@@ -1,35 +1,24 @@
 {
-  "phien_ban": "0e26c2d",
-  "so_ban": "1.5",
-  "ngay": "30/9/2026",
-  "ghi_chu": "Trợ lý tự gửi lại khi gửi hỏng vì mạng chớp: tài liệu cho trợ lý gửi lại tối đa 3 lần, đoạn gửi hỏng thì thử lại sau 1 phút rồi 2 phút, nghỉ rồi vẫn thử mỗi nhịp, khỏi bấm Tóm tắt ngay. Nhật ký cuộc họp ghi lần hỏng để dễ tra. Cách dùng giữ nguyên.",
+  "phien_ban": "7274a3a",
+  "so_ban": "1.6",
+  "ngay": "1/10/2026",
+  "ghi_chu": "Sửa lỗi Windows: icon cửa sổ phải là .ico",
   "cac_ban_truoc": [
     "a5a8c2c",
     "9ff03ca",
     "e15e4bf",
     "2bde529",
-    "6fac25e"
+    "6fac25e",
+    "0e26c2d"
   ],
   "mac": {
-    "tep": "CaiDat-SonicRec-Mac-v1.5.zip",
-    "sha256": "b9ac91cf312488d7a169dd6294d00500adbd74824ebf6f834444e7bd9bf5c682",
-    "co": 779859
+    "tep": "CaiDat-SonicRec-Mac-v1.6.zip",
+    "sha256": "b85a3d0615cc1224848a8f2f32b9209e2fa12c63793ed756b32f9bff0fab321a",
+    "co": 780498
   },
   "windows": {
-    "tep": "CaiDat-SonicRec-Windows-v1.5.exe",
-    "sha256": "b1d1decd71871c56490aeb8ea5e4c47d124ec1093e246881ef8855376d14659f",
-    "co": 666820
-  },
-  "day_du": {
-    "mac_chip_m": {
-      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v1.5.zip",
-      "sha256": "2bffa8f94841ca991b5cb6a184d1dfdedb8670eece8cb29ee4e1e07db45fa4ff",
-      "co": 79438702
-    },
-    "windows": {
-      "tep": "CaiDat-SonicRec-Windows-DayDu-v1.5.exe",
-      "sha256": "05f11bc4e3f3a6bce1db3de296361eb02001db1e69ba9570ede8b20180214530",
-      "co": 68583031
-    }
+    "tep": "CaiDat-SonicRec-Windows-v1.6.exe",
+    "sha256": "525de551a9856b518ec716a1f882fe08ccd70ce6085ba840bedfbf3fdb9c2d3d",
+    "co": 667281
   }
 }
