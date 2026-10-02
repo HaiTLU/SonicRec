@@ -1,8 +1,8 @@
 {
-  "phien_ban": "ca46459",
-  "so_ban": "1.9",
+  "phien_ban": "f1d2187",
+  "so_ban": "1.10",
   "ngay": "2/10/2026",
-  "ghi_chu": "Có bản đồ tư duy của cuộc họp. Trong lúc họp, bấm Bản đồ tư duy ở khung Trợ lý để xem các ý đã bàn xếp theo từng mục chương trình; chủ trì xem được trên điện thoại. Sau khi họp, xem ở màn Kết quả hoặc mở tệp ban-do-tu-duy.html trong thư mục cuộc họp; cuộc họp có gửi lên mạng thì máy dựng thêm bản đồ theo chủ đề từ cả buổi.",
+  "ghi_chu": "Máy tự giữ đăng nhập Google; khi Google bắt đăng nhập lại, ứng dụng hiện màn Đăng nhập Google. Thông tin đơn vị và đầu văn bản Word nay nằm ở khung Mẫu cuộc họp (thẻ Cài đặt), chọn mẫu ngay ở màn Cuộc họp hôm nay; cài đặt cũ tự chuyển thành mẫu, tệp Word in như cũ. Chỗ cần kiểm tra có nút Nghe đoạn này. Bản đồ tư duy luôn bằng tiếng Việt. Logo và màu mới.",
   "cac_ban_truoc": [
     "a5a8c2c",
     "9ff03ca",
@@ -12,28 +12,29 @@
     "0e26c2d",
     "7274a3a",
     "52e4764",
-    "aff1a9a"
+    "aff1a9a",
+    "ca46459"
   ],
   "mac": {
-    "tep": "CaiDat-SonicRec-Mac-v1.9.zip",
-    "sha256": "811cc3937edba7352279e61810028db83f4231d686a56d583046399bb64f6817",
-    "co": 796155
+    "tep": "CaiDat-SonicRec-Mac-v1.10.zip",
+    "sha256": "91ad5f5a5110c04bb32181ddd836d6cb2a13b4b36e1959b7cc6f29367005aacf",
+    "co": 790026
   },
   "windows": {
-    "tep": "CaiDat-SonicRec-Windows-v1.9.exe",
-    "sha256": "bb5c4cdcdba96b77b84c2d0accef8d7460e45bf6780be4e61792c037aad0c520",
-    "co": 691386
+    "tep": "CaiDat-SonicRec-Windows-v1.10.exe",
+    "sha256": "52e8be6720c3b0ee609cc57849006eba012dbcceea4614f0affaa684ddfbfea3",
+    "co": 694005
   },
   "day_du": {
     "mac_chip_m": {
-      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v1.9.zip",
-      "sha256": "57bbe45cd6b3bd1a58ca5d42fe1ca6aaf7c48290b30f93afca313a8fe30cef97",
-      "co": 79454998
+      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v1.10.zip",
+      "sha256": "c23e8427e5314e5206869e03ecfc15bdbbadcea5d26b2987fef59d1c4332c2a2",
+      "co": 79448869
     },
     "windows": {
-      "tep": "CaiDat-SonicRec-Windows-DayDu-v1.9.exe",
-      "sha256": "c438f44fc68393b9348359585ab57865e02f4c7da1aca8ab8dcd43ee8225300a",
-      "co": 68596987
+      "tep": "CaiDat-SonicRec-Windows-DayDu-v1.10.exe",
+      "sha256": "47ba6249940d6adf89ed9ba0aebe0c80d9e82ff3148c40dbe4cd545e801385d8",
+      "co": 68602090
     }
   }
 }
