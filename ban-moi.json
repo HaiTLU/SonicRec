@@ -1,8 +1,8 @@
 {
-  "phien_ban": "63b0f17",
-  "so_ban": "2.2",
+  "phien_ban": "b5cd1f8",
+  "so_ban": "2.3",
   "ngay": "3/10/2026",
-  "ghi_chu": "Bản 2.2: Mẫu cuộc họp và Nhận dạng giọng nói tách thành hai thẻ riêng cho dễ tìm. Màn đang ghi gọn hơn, chủ trì tự nói câu thông báo đầu buổi (xem mục 2.2 hướng dẫn sử dụng). Hộp Ngữ cảnh thêm ô chọn Gửi lên mạng hay Không gửi lên mạng; bấm Lưu là máy đưa ngữ cảnh lên sổ ngay, hộp còn mở thì máy chờ rồi mới gửi đoạn đầu. Danh sách cuộc họp đã ghi thêm ô tìm và bộ lọc. Mã kích hoạt chắc hơn trước việc chỉnh lùi đồng hồ.",
+  "ghi_chu": "Bản 2.3: cuộc họp chọn Không gửi lên mạng nay có khung Chép lời trong buổi ở màn đang ghi. Cứ 5 phút (hoặc 10 phút, theo ô nhịp ở Cài đặt), máy chép lời phần vừa ghi ngay trên laptop, không gửi gì lên mạng. Chữ này chưa có tên người nói, chỉ để theo dõi trong lúc họp, không vào tệp Word. Biên bản cuối vẫn soạn sau khi bấm Dừng và có tên người nói như trước.",
   "cac_ban_truoc": [
     "a5a8c2c",
     "9ff03ca",
@@ -16,28 +16,29 @@
     "ca46459",
     "f1d2187",
     "84d8919",
-    "4abb52e"
+    "4abb52e",
+    "63b0f17"
   ],
   "mac": {
-    "tep": "CaiDat-SonicRec-Mac-v2.2.zip",
-    "sha256": "0a60e7226860962d807ba59076b1e268b471103eadc5d9db8300264653b09a7c",
-    "co": 854946
+    "tep": "CaiDat-SonicRec-Mac-v2.3.zip",
+    "sha256": "17b631701fd774a0e522d48dd15021ba902ddb427c404e59ec78beb134e7ddc3",
+    "co": 860213
   },
   "windows": {
-    "tep": "CaiDat-SonicRec-Windows-v2.2.exe",
-    "sha256": "aee84c4a7b61fa52bb559ab6c4cacafb52a0ab658648f85928640fed0de68f4b",
-    "co": 743755
+    "tep": "CaiDat-SonicRec-Windows-v2.3.exe",
+    "sha256": "87e63a93cb227892080523a2b7e4c0d9812152f49ecdae9194dc576c85def08f",
+    "co": 747716
   },
   "day_du": {
     "mac_chip_m": {
-      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.2.zip",
-      "sha256": "86b041e765dc026c0bf289dbda7c227eedd1206faa7a7f25f0e374d13649644f",
-      "co": 86941700
+      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.3.zip",
+      "sha256": "bb7cbc9b1c64f0a9cc82d98ff46a8a1565e7a5d34fd6cae2c83a6f27f0a09f4b",
+      "co": 86946967
     },
     "windows": {
-      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.2.exe",
-      "sha256": "01733b21ca3cce32e0bb06b2a391bd3ebda375269f162ce11826fd8546bce72c",
-      "co": 75169086
+      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.3.exe",
+      "sha256": "74568e37b278275852d8a226fac9363c02190c549b4e581a321c8e6488207d9a",
+      "co": 75178249
     }
   }
 }
