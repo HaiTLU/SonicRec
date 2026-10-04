@@ -1,8 +1,8 @@
 {
-  "phien_ban": "6b6dd4d",
-  "so_ban": "2.7",
-  "ngay": "4/10/2026",
-  "ghi_chu": "1. Tóm tắt ngay không còn chờ mãi: phần dồn nhiều phút được chia đoạn tối đa 12 phút và gửi nối tiếp.\n2. Khung Gợi ý tạm nghỉ báo rõ lỗi gần nhất.\n3. Màn Kết quả theo 4 bước đánh số; màu đỏ chỉ cho ghi âm, lỗi, xoá.\n4. Mốc thời gian ghi rõ bản ghi hay giờ thật.\n5. Cửa sổ hẹp và trang chủ trì xem trên điện thoại dễ dùng hơn.\n6. Biểu tượng và màu mới.",
+  "phien_ban": "9ed0dfd",
+  "so_ban": "2.8",
+  "ngay": "5/10/2026",
+  "ghi_chu": "1. Dùng thử 30 ngày cho máy chưa có mã kích hoạt, có nút Mua mã.\n2. Sửa chữ biên bản ngay trên màn Kết quả, đánh dấu Đã duyệt, tạo tệp Word mới.\n3. Đổi tên cuộc họp; tên tệp Word theo tên, ngày và độ dài.\n4. Nút Đánh dấu (hoặc phím cách) ghi phút có ý quan trọng.\n5. Đầu ra mới: Thông báo kết luận.\n6. Danh sách việc xuất Excel và đưa vào lịch.\n7. Tìm tên hay nội dung trong mọi cuộc họp đã lưu.\n8. Tự xoá bản ghi âm sau 30, 90, 180 ngày (tắt sẵn).\n9. Chữ hiện ngay trong lúc họp.",
   "cac_ban_truoc": [
     "a5a8c2c",
     "9ff03ca",
@@ -21,28 +21,29 @@
     "b5cd1f8",
     "7a9c310",
     "1f3699c",
-    "7a31506"
+    "7a31506",
+    "6b6dd4d"
   ],
   "mac": {
-    "tep": "CaiDat-SonicRec-Mac-v2.7.zip",
-    "sha256": "81e5e12a5454a810d16617a85c7dcd657a8b66c5fb3b10eaa6823bbabf0ad658",
-    "co": 743985
+    "tep": "CaiDat-SonicRec-Mac-v2.8.zip",
+    "sha256": "982f30f935272c2e40cc2dfbe40d9fab4c2a0c2223d0665a0cc174e633857ac7",
+    "co": 801896
   },
   "windows": {
-    "tep": "CaiDat-SonicRec-Windows-v2.7.exe",
-    "sha256": "58b38218c77047eebd8b4279852445948a80c1d9e68d60d2805fe38fdad80dbd",
-    "co": 750557
+    "tep": "CaiDat-SonicRec-Windows-v2.8.exe",
+    "sha256": "372d3b4edddfc3863bd46c01ae27befc65ab8b5cd2dd1de5f5ccf9130ae45f9b",
+    "co": 788287
   },
   "day_du": {
     "mac_chip_m": {
-      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.7.zip",
-      "sha256": "3cfb89873588c364df76f9f1fe84f034e1982736fb5bad69bc942005879fe052",
-      "co": 86830738
+      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.8.zip",
+      "sha256": "c9bc20e043e57749eebb1c8532d5dd0d4d9d4d0a7a3cee3870e7ed88c28203a0",
+      "co": 86888650
     },
     "windows": {
-      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.7.exe",
-      "sha256": "a706cc8b26fe1f2ff6055aaf232552d7cdd84a373c5e35a1b26898a77b540d42",
-      "co": 75170103
+      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.8.exe",
+      "sha256": "2e3a19b68057b8501280f5d3056c7979a3749093987c0649a8be2e78ef62bc2a",
+      "co": 75209510
     }
   }
 }
