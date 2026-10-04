@@ -1,0 +1,48 @@
+{
+  "phien_ban": "6b6dd4d",
+  "so_ban": "2.7",
+  "ngay": "4/10/2026",
+  "ghi_chu": "1. Tóm tắt ngay không còn chờ mãi: phần dồn nhiều phút được chia đoạn tối đa 12 phút và gửi nối tiếp.\n2. Khung Gợi ý tạm nghỉ báo rõ lỗi gần nhất.\n3. Màn Kết quả theo 4 bước đánh số; màu đỏ chỉ cho ghi âm, lỗi, xoá.\n4. Mốc thời gian ghi rõ bản ghi hay giờ thật.\n5. Cửa sổ hẹp và trang chủ trì xem trên điện thoại dễ dùng hơn.\n6. Biểu tượng và màu mới.",
+  "cac_ban_truoc": [
+    "a5a8c2c",
+    "9ff03ca",
+    "e15e4bf",
+    "2bde529",
+    "6fac25e",
+    "0e26c2d",
+    "7274a3a",
+    "52e4764",
+    "aff1a9a",
+    "ca46459",
+    "f1d2187",
+    "84d8919",
+    "4abb52e",
+    "63b0f17",
+    "b5cd1f8",
+    "7a9c310",
+    "1f3699c",
+    "7a31506"
+  ],
+  "mac": {
+    "tep": "CaiDat-SonicRec-Mac-v2.7.zip",
+    "sha256": "81e5e12a5454a810d16617a85c7dcd657a8b66c5fb3b10eaa6823bbabf0ad658",
+    "co": 743985
+  },
+  "windows": {
+    "tep": "CaiDat-SonicRec-Windows-v2.7.exe",
+    "sha256": "58b38218c77047eebd8b4279852445948a80c1d9e68d60d2805fe38fdad80dbd",
+    "co": 750557
+  },
+  "day_du": {
+    "mac_chip_m": {
+      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.7.zip",
+      "sha256": "3cfb89873588c364df76f9f1fe84f034e1982736fb5bad69bc942005879fe052",
+      "co": 86830738
+    },
+    "windows": {
+      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.7.exe",
+      "sha256": "a706cc8b26fe1f2ff6055aaf232552d7cdd84a373c5e35a1b26898a77b540d42",
+      "co": 75170103
+    }
+  }
+}
