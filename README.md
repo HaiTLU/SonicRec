@@ -4,11 +4,13 @@ Kho này chỉ giữ bản cài mới nhất của ứng dụng SonicRec: ghi â
 
 Bản mới nhất: **v2.11**, ngày 5/10/2026.
 
-1. Làm sạch bản chép lời: bỏ tiếng đệm (ừm, à) và chỗ nói lặp, vẫn giữ bản gốc.
-2. Nút Chép tin nhắn Zalo ở màn Kết quả: gom kết luận và việc giao để dán vào nhóm.
+1. Làm sạch bản chép lời: bỏ ừm, à và chỗ nói lặp, vẫn giữ bản gốc.
+2. Nút Chép tin nhắn Zalo: gom kết luận và việc giao để dán vào nhóm.
 3. Nút Chiếu kết luận lên màn hình phòng họp.
 4. Lời nói chỉ ở cuộc Offline, nhận được cả người ngồi xa micro.
-5. Nút Đánh dấu ghi rõ công dụng; nút Gập lại đổi thành Thu nhỏ.
+5. Họp mật: buổi đó chỉ chạy Offline, xoá bản ghi âm là xoá luôn bản chép lời.
+6. Bấm Đã duyệt, máy làm sẵn tin Zalo, Excel việc, tệp lịch, Thông báo kết luận.
+7. Thêm ảnh slide vào phụ lục cuối tệp Word, có chú thích.
 
 Cài lần đầu cho máy mới (gói đầy đủ, mang sẵn mọi thứ, cài khoảng một phút và không cần mạng):
 

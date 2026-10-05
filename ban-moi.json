@@ -2,7 +2,7 @@
   "phien_ban": "dd65e49",
   "so_ban": "2.11",
   "ngay": "5/10/2026",
-  "ghi_chu": "1. Làm sạch bản chép lời: bỏ tiếng đệm (ừm, à) và chỗ nói lặp, vẫn giữ bản gốc.\n2. Nút Chép tin nhắn Zalo ở màn Kết quả: gom kết luận và việc giao để dán vào nhóm.\n3. Nút Chiếu kết luận lên màn hình phòng họp.\n4. Lời nói chỉ ở cuộc Offline, nhận được cả người ngồi xa micro.\n5. Nút Đánh dấu ghi rõ công dụng; nút Gập lại đổi thành Thu nhỏ.",
+  "ghi_chu": "1. Làm sạch bản chép lời: bỏ ừm, à và chỗ nói lặp, vẫn giữ bản gốc.\n2. Nút Chép tin nhắn Zalo: gom kết luận và việc giao để dán vào nhóm.\n3. Nút Chiếu kết luận lên màn hình phòng họp.\n4. Lời nói chỉ ở cuộc Offline, nhận được cả người ngồi xa micro.\n5. Họp mật: buổi đó chỉ chạy Offline, xoá bản ghi âm là xoá luôn bản chép lời.\n6. Bấm Đã duyệt, máy làm sẵn tin Zalo, Excel việc, tệp lịch, Thông báo kết luận.\n7. Thêm ảnh slide vào phụ lục cuối tệp Word, có chú thích.",
   "cac_ban_truoc": [
     "a5a8c2c",
     "9ff03ca",
