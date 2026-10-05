@@ -1,8 +1,8 @@
 {
-  "phien_ban": "dd65e49",
-  "so_ban": "2.11",
+  "phien_ban": "8781c39",
+  "so_ban": "2.12",
   "ngay": "5/10/2026",
-  "ghi_chu": "1. Làm sạch bản chép lời: bỏ ừm, à và chỗ nói lặp, vẫn giữ bản gốc.\n2. Nút Chép tin nhắn Zalo: gom kết luận và việc giao để dán vào nhóm.\n3. Nút Chiếu kết luận lên màn hình phòng họp.\n4. Lời nói chỉ ở cuộc Offline, nhận được cả người ngồi xa micro.\n5. Họp mật: buổi đó chỉ chạy Offline, xoá bản ghi âm là xoá luôn bản chép lời.\n6. Bấm Đã duyệt, máy làm sẵn tin Zalo, Excel việc, tệp lịch, Thông báo kết luận.\n7. Thêm ảnh slide vào phụ lục cuối tệp Word, có chú thích.",
+  "ghi_chu": "1. Bấm Đánh dấu Đã duyệt thì máy rà biên bản trước: việc chưa có người phụ trách hay chưa có hạn, hạn đã qua, tên người nhận việc không có trong thành phần dự họp, chữ [nghe không rõ] còn sót, mục Kết luận trống. Máy chỉ nhắc: bấm Vẫn duyệt là duyệt, bấm Quay lại sửa để sửa tiếp.",
   "cac_ban_truoc": [
     "a5a8c2c",
     "9ff03ca",
@@ -25,28 +25,29 @@
     "6b6dd4d",
     "9ed0dfd",
     "e392d9a",
-    "63f7df2"
+    "63f7df2",
+    "dd65e49"
   ],
   "mac": {
-    "tep": "CaiDat-SonicRec-Mac-v2.11.zip",
-    "sha256": "a4ae5fe68c0f996a02c13f55fd82fd9802c1e913bf68bb21cec93bc49923c794",
-    "co": 847234
+    "tep": "CaiDat-SonicRec-Mac-v2.12.zip",
+    "sha256": "dc1eafb144c9fde51849d091bdd2907c9beab4f9856abc074a06727ef7a37d01",
+    "co": 854932
   },
   "windows": {
-    "tep": "CaiDat-SonicRec-Windows-v2.11.exe",
-    "sha256": "f0187734f92a0db1f0a1a1a03bac19e0b92b82f4c62e3c2c640097b6f3b7c2f6",
-    "co": 822048
+    "tep": "CaiDat-SonicRec-Windows-v2.12.exe",
+    "sha256": "21b378b51fde1452441f121774d8cd6b91472e7c2ad11f658d1e2fdb90c5bfbd",
+    "co": 827829
   },
   "day_du": {
     "mac_chip_m": {
-      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.11.zip",
-      "sha256": "d4beddc0d356d2ce3a7de4bd162e88b13c5535d973acfc5e1b54f336320b0996",
-      "co": 86931351
+      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.12.zip",
+      "sha256": "3ce27bb3a7c1337c494f2b8f3a1eb6708876dd79a793e05391d409f906c24d6c",
+      "co": 86941687
     },
     "windows": {
-      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.11.exe",
-      "sha256": "df3820948138ec831a34a2b6630a976fcf93362dad869bb1ca18eef6d678fe92",
-      "co": 75234200
+      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.12.exe",
+      "sha256": "79dac032a86b51374eaf14c24ef88700b7892eee26249115ae33f27496788b7b",
+      "co": 75242969
     }
   }
 }
