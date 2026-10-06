@@ -2,6 +2,8 @@
 
 Kho này chỉ giữ bản cài mới nhất của ứng dụng SonicRec: ghi âm cuộc họp và soạn biên bản (Trường Đại học Thăng Long). Ứng dụng đã cài đọc kho này để tự báo khi có bản mới. Mã nguồn không nằm ở đây.
 
+Giấy phép: SonicRec là phần mềm bản quyền, bảo lưu mọi quyền (tệp `LICENSE`). Gói đầy đủ mang sẵn ffmpeg theo GPL v3: xem `NOTICE-ffmpeg.md` và `GPL-3.0.txt`.
+
 Bản mới nhất: **v2.12**, ngày 5/10/2026.
 
 1. Bấm Đánh dấu Đã duyệt thì máy rà biên bản trước: việc chưa có người phụ trách hay chưa có hạn, hạn đã qua, tên người nhận việc không có trong thành phần dự họp, chữ [nghe không rõ] còn sót, mục Kết luận trống. Máy chỉ nhắc: bấm Vẫn duyệt là duyệt, bấm Quay lại sửa để sửa tiếp.

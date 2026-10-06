@@ -1,0 +1,15 @@
+SonicRec - Giấy phép sử dụng phần mềm
+
+Bản quyền (c) 2026 Nguyễn Nam Hải. Bảo lưu mọi quyền.
+
+1. Phạm vi. Tệp này áp dụng cho các tệp cài đặt và tài liệu của SonicRec do tác giả viết ("Phần mềm SonicRec"). Phần mềm SonicRec không phải phần mềm nguồn mở. Việc đọc được mã hoặc tải được tệp cài từ kho này không cấp cho bạn quyền sao chép, sửa, phân phối lại hay bán lại.
+
+2. Quyền dùng. Người có mã kích hoạt hợp lệ do tác giả cấp được cài và dùng SonicRec theo thời hạn và số máy ghi trong mã kích hoạt. Quyền này không chuyển nhượng được.
+
+3. Điều không được làm khi chưa có văn bản đồng ý của tác giả: sao chép hay phân phối lại Phần mềm SonicRec; sửa, dịch ngược, gỡ hay vượt qua cơ chế kích hoạt; bán, cho thuê, hoặc dùng mã nguồn để làm sản phẩm hay dịch vụ khác.
+
+4. Thành phần bên thứ ba. SonicRec dùng và đi kèm các thành phần của bên khác, mỗi thành phần theo giấy phép riêng của nó, không theo tệp này. Danh sách và điều kiện ở tệp THONG_BAO_BEN_THU_BA.md. Riêng ffmpeg (chương trình ghi âm đi kèm bản cài) theo GNU General Public License phiên bản 3: xem tệp NOTICE-ffmpeg.md và GPL-3.0.txt. Tệp này không hạn chế quyền của bạn đối với các thành phần đó theo giấy phép của chúng, gồm quyền nhận mã nguồn, sao chép, sửa và phân phối lại riêng thành phần đó.
+
+5. Không bảo đảm. Phần mềm được cung cấp "nguyên trạng", không kèm bảo đảm nào, trong phạm vi pháp luật Việt Nam cho phép. Điều khoản thương mại (giá, hoàn tiền, hỗ trợ) nằm ở trang mua và điều khoản bán hàng của SonicRec, không nằm ở tệp này.
+
+6. Liên hệ xin phép: mở một issue ở kho HaiTLU/SonicRec trên GitHub.
