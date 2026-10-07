@@ -4,19 +4,19 @@ Kho này chỉ giữ bản cài mới nhất của ứng dụng SonicRec: ghi â
 
 Giấy phép: SonicRec là phần mềm bản quyền, bảo lưu mọi quyền (tệp `LICENSE`). Gói đầy đủ mang sẵn ffmpeg theo GPL v3: xem `NOTICE-ffmpeg.md` và `GPL-3.0.txt`.
 
-Bản mới nhất: **v2.12**, ngày 5/10/2026.
+Bản mới nhất: **v2.13**, ngày 6/10/2026.
 
-1. Bấm Đánh dấu Đã duyệt thì máy rà biên bản trước: việc chưa có người phụ trách hay chưa có hạn, hạn đã qua, tên người nhận việc không có trong thành phần dự họp, chữ [nghe không rõ] còn sót, mục Kết luận trống. Máy chỉ nhắc: bấm Vẫn duyệt là duyệt, bấm Quay lại sửa để sửa tiếp.
+1. Sửa lỗi đăng nhập Google trên máy Windows: bấm Đăng nhập lại Google giờ mở đúng trang đăng nhập, không còn đóng cửa sổ rồi vẫn báo chưa đăng nhập.
 
 Cài lần đầu cho máy mới (gói đầy đủ, mang sẵn mọi thứ, cài khoảng một phút và không cần mạng):
 
-- Máy Windows: [CaiDat-SonicRec-Windows-DayDu-v2.12.exe](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Windows-DayDu-v2.12.exe)
-- Máy Mac chip Apple (M1 trở lên): [CaiDat-SonicRec-MacChipM-DayDu-v2.12.zip](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-MacChipM-DayDu-v2.12.zip)
+- Máy Windows: [CaiDat-SonicRec-Windows-DayDu-v2.13.exe](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Windows-DayDu-v2.13.exe)
+- Máy Mac chip Apple (M1 trở lên): [CaiDat-SonicRec-MacChipM-DayDu-v2.13.zip](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-MacChipM-DayDu-v2.13.zip)
 
 Gói nhỏ dưới đây cài cần mạng nên lâu hơn; máy Mac chip Intel dùng gói nhỏ:
 
-- Máy Mac: [CaiDat-SonicRec-Mac-v2.12.zip](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Mac-v2.12.zip)
-- Máy Windows: [CaiDat-SonicRec-Windows-v2.12.exe](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Windows-v2.12.exe)
+- Máy Mac: [CaiDat-SonicRec-Mac-v2.13.zip](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Mac-v2.13.zip)
+- Máy Windows: [CaiDat-SonicRec-Windows-v2.13.exe](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Windows-v2.13.exe)
 
 Máy đã cài thì không cần tải tay: ứng dụng tự báo có bản mới và hỏi trước khi cài.
 Riêng máy cài trước khi có tên v1 (thẻ Cài đặt hiện mã 7 ký tự, không có chữ v) chưa tự báo được: tải tay bản mới nhất một lần, các lần sau tự báo.

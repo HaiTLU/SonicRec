@@ -1,8 +1,8 @@
 {
-  "phien_ban": "8781c39",
-  "so_ban": "2.12",
-  "ngay": "5/10/2026",
-  "ghi_chu": "1. Bấm Đánh dấu Đã duyệt thì máy rà biên bản trước: việc chưa có người phụ trách hay chưa có hạn, hạn đã qua, tên người nhận việc không có trong thành phần dự họp, chữ [nghe không rõ] còn sót, mục Kết luận trống. Máy chỉ nhắc: bấm Vẫn duyệt là duyệt, bấm Quay lại sửa để sửa tiếp.",
+  "phien_ban": "3491bee",
+  "so_ban": "2.13",
+  "ngay": "6/10/2026",
+  "ghi_chu": "1. Sửa lỗi đăng nhập Google trên máy Windows: bấm Đăng nhập lại Google giờ mở đúng trang đăng nhập, không còn đóng cửa sổ rồi vẫn báo chưa đăng nhập.",
   "cac_ban_truoc": [
     "a5a8c2c",
     "9ff03ca",
@@ -26,28 +26,29 @@
     "9ed0dfd",
     "e392d9a",
     "63f7df2",
-    "dd65e49"
+    "dd65e49",
+    "8781c39"
   ],
   "mac": {
-    "tep": "CaiDat-SonicRec-Mac-v2.12.zip",
-    "sha256": "dc1eafb144c9fde51849d091bdd2907c9beab4f9856abc074a06727ef7a37d01",
-    "co": 854932
+    "tep": "CaiDat-SonicRec-Mac-v2.13.zip",
+    "sha256": "c0630f2f4f79d0b378599c174152099a7726b2101d849c84fce2af0859d8d94c",
+    "co": 854940
   },
   "windows": {
-    "tep": "CaiDat-SonicRec-Windows-v2.12.exe",
-    "sha256": "21b378b51fde1452441f121774d8cd6b91472e7c2ad11f658d1e2fdb90c5bfbd",
-    "co": 827829
+    "tep": "CaiDat-SonicRec-Windows-v2.13.exe",
+    "sha256": "bd08329c8ced2d3fcce97de46c382a13b7c14822bc5b056229e8edfd39bdd147",
+    "co": 824422
   },
   "day_du": {
     "mac_chip_m": {
-      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.12.zip",
-      "sha256": "3ce27bb3a7c1337c494f2b8f3a1eb6708876dd79a793e05391d409f906c24d6c",
-      "co": 86941687
+      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.13.zip",
+      "sha256": "1e6a81d5026f292f2cbc67c787dc9d879b7538d6481d5e930d8faedd8aa8ef69",
+      "co": 86918337
     },
     "windows": {
-      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.12.exe",
-      "sha256": "79dac032a86b51374eaf14c24ef88700b7892eee26249115ae33f27496788b7b",
-      "co": 75242969
+      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.13.exe",
+      "sha256": "26b93dd1cdd466aa1c129471784d5699320751ca976851e4586d89ce1669baed",
+      "co": 75250671
     }
   }
 }
