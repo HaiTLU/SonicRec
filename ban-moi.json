@@ -1,8 +1,8 @@
 {
-  "phien_ban": "3491bee",
-  "so_ban": "2.13",
-  "ngay": "6/10/2026",
-  "ghi_chu": "1. Sửa lỗi đăng nhập Google trên máy Windows: bấm Đăng nhập lại Google giờ mở đúng trang đăng nhập, không còn đóng cửa sổ rồi vẫn báo chưa đăng nhập.",
+  "phien_ban": "3797c67",
+  "so_ban": "2.14",
+  "ngay": "7/10/2026",
+  "ghi_chu": "1. Màn Đang ghi có nút Thu gọn: giấu đồng hồ lớn, vạch âm lượng và dòng hướng dẫn, máy vẫn ghi bình thường. Bấm Mở rộng để xem lại.",
   "cac_ban_truoc": [
     "a5a8c2c",
     "9ff03ca",
@@ -27,28 +27,29 @@
     "e392d9a",
     "63f7df2",
     "dd65e49",
-    "8781c39"
+    "8781c39",
+    "3491bee"
   ],
   "mac": {
-    "tep": "CaiDat-SonicRec-Mac-v2.13.zip",
-    "sha256": "c0630f2f4f79d0b378599c174152099a7726b2101d849c84fce2af0859d8d94c",
-    "co": 854940
+    "tep": "CaiDat-SonicRec-Mac-v2.14.zip",
+    "sha256": "b9a4e4feef7e6c76be29ce7bc36655b57124af984c0ba33062548d433bddf163",
+    "co": 855575
   },
   "windows": {
-    "tep": "CaiDat-SonicRec-Windows-v2.13.exe",
-    "sha256": "bd08329c8ced2d3fcce97de46c382a13b7c14822bc5b056229e8edfd39bdd147",
-    "co": 824422
+    "tep": "CaiDat-SonicRec-Windows-v2.14.exe",
+    "sha256": "2092c02df40dfb03b7dea6c9bf2456f8ad1b731263a6d141c33537cfc5584b8f",
+    "co": 828414
   },
   "day_du": {
     "mac_chip_m": {
-      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.13.zip",
-      "sha256": "1e6a81d5026f292f2cbc67c787dc9d879b7538d6481d5e930d8faedd8aa8ef69",
-      "co": 86918337
+      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.14.zip",
+      "sha256": "6804648e1ceb99be56fbeb47cd128d9f8096d8cc0d452ed82888897eb8315382",
+      "co": 86934107
     },
     "windows": {
-      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.13.exe",
-      "sha256": "26b93dd1cdd466aa1c129471784d5699320751ca976851e4586d89ce1669baed",
-      "co": 75250671
+      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.14.exe",
+      "sha256": "ebf57ae40a9abbbd4742a566ef640bea22c15d8d43b5cee0ccab18ef73ac727a",
+      "co": 75243189
     }
   }
 }
