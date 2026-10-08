@@ -1,8 +1,8 @@
 {
-  "phien_ban": "906c898",
-  "so_ban": "2.15",
+  "phien_ban": "3c60fcd",
+  "so_ban": "2.16",
   "ngay": "8/10/2026",
-  "ghi_chu": "1. Đăng nhập Google: nếu cửa sổ trình duyệt tự đóng giữa chừng, máy tự mở lại một lần, không phải bấm Đăng nhập nhiều lần như trước.",
+  "ghi_chu": "1. Khung Gợi ý: khi tóm tắt một đoạn quá 3 phút chưa xong, máy tự hỏi lại một lần.\n2. Khung Gợi ý: khi tài khoản Google chính hết lượt hỏi giữa buổi họp, máy tự chuyển sang tài khoản dự phòng đã đăng nhập để tóm tắt tiếp.",
   "cac_ban_truoc": [
     "a5a8c2c",
     "9ff03ca",
@@ -29,28 +29,29 @@
     "dd65e49",
     "8781c39",
     "3491bee",
-    "3797c67"
+    "3797c67",
+    "906c898"
   ],
   "mac": {
-    "tep": "CaiDat-SonicRec-Mac-v2.15.zip",
-    "sha256": "bca4fb187ea58f566a502f66f97cfb0d0e28d8cf19022b009bed1ba66a497c01",
-    "co": 856697
+    "tep": "CaiDat-SonicRec-Mac-v2.16.zip",
+    "sha256": "19aa7628fedcf8fd126a2af968ceabcc23fbecf7275ecf4bf1dbd45b9b4e088d",
+    "co": 858930
   },
   "windows": {
-    "tep": "CaiDat-SonicRec-Windows-v2.15.exe",
-    "sha256": "b8cc9eb74a0e4eec792d5c4918496c60d29c22a328c584fd00c439975003afed",
-    "co": 829506
+    "tep": "CaiDat-SonicRec-Windows-v2.16.exe",
+    "sha256": "56489a494449f4cf6616458e0d877b46c158344938bf1cb8ffb92c1efbdc407a",
+    "co": 830980
   },
   "day_du": {
     "mac_chip_m": {
-      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.15.zip",
-      "sha256": "4014e3454884effefb567e76ddc9b909585c8c5c2a88226e64b799a53be89179",
-      "co": 86935229
+      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.16.zip",
+      "sha256": "f8001ee2260ed326ec7a5c347c2ca625fc9b0bebbc42fb32d2b240f6867ee63a",
+      "co": 86937462
     },
     "windows": {
-      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.15.exe",
-      "sha256": "fd451ae894b7558b17c1a26a204eba5804af35da6f00d2d2557cb0ffacf31d80",
-      "co": 75246958
+      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.16.exe",
+      "sha256": "646f80b114b7311c37176f92db66a87b2de08c6c5de468b221f1dbe148fa2e9d",
+      "co": 75245413
     }
   }
 }
