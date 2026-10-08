@@ -4,19 +4,19 @@ Kho này chỉ giữ bản cài mới nhất của ứng dụng SonicRec: ghi â
 
 Giấy phép: SonicRec là phần mềm bản quyền, bảo lưu mọi quyền (tệp `LICENSE`). Gói đầy đủ mang sẵn ffmpeg theo GPL v3: xem `NOTICE-ffmpeg.md` và `GPL-3.0.txt`.
 
-Bản mới nhất: **v2.14**, ngày 7/10/2026.
+Bản mới nhất: **v2.15**, ngày 8/10/2026.
 
-1. Màn Đang ghi có nút Thu gọn: giấu đồng hồ lớn, vạch âm lượng và dòng hướng dẫn, máy vẫn ghi bình thường. Bấm Mở rộng để xem lại.
+1. Đăng nhập Google: nếu cửa sổ trình duyệt tự đóng giữa chừng, máy tự mở lại một lần, không phải bấm Đăng nhập nhiều lần như trước.
 
 Cài lần đầu cho máy mới (gói đầy đủ, mang sẵn mọi thứ, cài khoảng một phút và không cần mạng):
 
-- Máy Windows: [CaiDat-SonicRec-Windows-DayDu-v2.14.exe](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Windows-DayDu-v2.14.exe)
-- Máy Mac chip Apple (M1 trở lên): [CaiDat-SonicRec-MacChipM-DayDu-v2.14.zip](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-MacChipM-DayDu-v2.14.zip)
+- Máy Windows: [CaiDat-SonicRec-Windows-DayDu-v2.15.exe](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Windows-DayDu-v2.15.exe)
+- Máy Mac chip Apple (M1 trở lên): [CaiDat-SonicRec-MacChipM-DayDu-v2.15.zip](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-MacChipM-DayDu-v2.15.zip)
 
 Gói nhỏ dưới đây cài cần mạng nên lâu hơn; máy Mac chip Intel dùng gói nhỏ:
 
-- Máy Mac: [CaiDat-SonicRec-Mac-v2.14.zip](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Mac-v2.14.zip)
-- Máy Windows: [CaiDat-SonicRec-Windows-v2.14.exe](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Windows-v2.14.exe)
+- Máy Mac: [CaiDat-SonicRec-Mac-v2.15.zip](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Mac-v2.15.zip)
+- Máy Windows: [CaiDat-SonicRec-Windows-v2.15.exe](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Windows-v2.15.exe)
 
 Máy đã cài thì không cần tải tay: ứng dụng tự báo có bản mới và hỏi trước khi cài.
 Riêng máy cài trước khi có tên v1 (thẻ Cài đặt hiện mã 7 ký tự, không có chữ v) chưa tự báo được: tải tay bản mới nhất một lần, các lần sau tự báo.
