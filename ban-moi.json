@@ -1,8 +1,8 @@
 {
-  "phien_ban": "3c60fcd",
-  "so_ban": "2.16",
-  "ngay": "8/10/2026",
-  "ghi_chu": "1. Khung Gợi ý: khi tóm tắt một đoạn quá 3 phút chưa xong, máy tự hỏi lại một lần.\n2. Khung Gợi ý: khi tài khoản Google chính hết lượt hỏi giữa buổi họp, máy tự chuyển sang tài khoản dự phòng đã đăng nhập để tóm tắt tiếp.",
+  "phien_ban": "e15ceab",
+  "so_ban": "2.17",
+  "ngay": "9/10/2026",
+  "ghi_chu": "1. Biên bản Word đổi theo mẫu mới: mục đánh I., II., III., mọi dòng thụt đầu dòng đều nhau, ý có ý con in đậm, bảng công việc chữ 13.\n2. Câu kết biên bản ghi \"Cuộc họp kết thúc lúc ... cùng ngày./.\"; khối chữ ký Thư ký, Chủ trì vẫn ở cuối.",
   "cac_ban_truoc": [
     "a5a8c2c",
     "9ff03ca",
@@ -30,28 +30,29 @@
     "8781c39",
     "3491bee",
     "3797c67",
-    "906c898"
+    "906c898",
+    "3c60fcd"
   ],
   "mac": {
-    "tep": "CaiDat-SonicRec-Mac-v2.16.zip",
-    "sha256": "19aa7628fedcf8fd126a2af968ceabcc23fbecf7275ecf4bf1dbd45b9b4e088d",
-    "co": 858930
+    "tep": "CaiDat-SonicRec-Mac-v2.17.zip",
+    "sha256": "a1f3ed71c073fdaa89afc189125da0958f7f9ce5fbb36bc5de1efc2f1456d77a",
+    "co": 878430
   },
   "windows": {
-    "tep": "CaiDat-SonicRec-Windows-v2.16.exe",
-    "sha256": "56489a494449f4cf6616458e0d877b46c158344938bf1cb8ffb92c1efbdc407a",
-    "co": 830980
+    "tep": "CaiDat-SonicRec-Windows-v2.17.exe",
+    "sha256": "96d3346744396c6085a1b2babce099962430443332a9c3f03b64b682d2c20ef0",
+    "co": 846356
   },
   "day_du": {
     "mac_chip_m": {
-      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.16.zip",
-      "sha256": "f8001ee2260ed326ec7a5c347c2ca625fc9b0bebbc42fb32d2b240f6867ee63a",
-      "co": 86937462
+      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.17.zip",
+      "sha256": "e94922c345e9b18aa6320e0ef070efa4400f7b9f68f5915ec12cac3066b6c0ce",
+      "co": 86956962
     },
     "windows": {
-      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.16.exe",
-      "sha256": "646f80b114b7311c37176f92db66a87b2de08c6c5de468b221f1dbe148fa2e9d",
-      "co": 75245413
+      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.17.exe",
+      "sha256": "359f2761f1c0815c871360fe96192ff61f83377cffc526db3dad385baab11da4",
+      "co": 75263259
     }
   }
 }
