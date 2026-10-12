@@ -1,8 +1,8 @@
 {
-  "phien_ban": "e15ceab",
-  "so_ban": "2.17",
-  "ngay": "9/10/2026",
-  "ghi_chu": "1. Biên bản Word đổi theo mẫu mới: mục đánh I., II., III., mọi dòng thụt đầu dòng đều nhau, ý có ý con in đậm, bảng công việc chữ 13.\n2. Câu kết biên bản ghi \"Cuộc họp kết thúc lúc ... cùng ngày./.\"; khối chữ ký Thư ký, Chủ trì vẫn ở cuối.",
+  "phien_ban": "131b25d",
+  "so_ban": "2.18",
+  "ngay": "12/10/2026",
+  "ghi_chu": "1. Bản mới được ký số: máy chỉ tin bản cập nhật do chính SonicRec phát hành.\n2. Không cho chọn Họp mật khi cuộc họp đang ghi đã gửi nội dung lên mạng.",
   "cac_ban_truoc": [
     "a5a8c2c",
     "9ff03ca",
@@ -31,28 +31,29 @@
     "3491bee",
     "3797c67",
     "906c898",
-    "3c60fcd"
+    "3c60fcd",
+    "e15ceab"
   ],
   "mac": {
-    "tep": "CaiDat-SonicRec-Mac-v2.17.zip",
-    "sha256": "a1f3ed71c073fdaa89afc189125da0958f7f9ce5fbb36bc5de1efc2f1456d77a",
-    "co": 878430
+    "tep": "CaiDat-SonicRec-Mac-v2.18.zip",
+    "sha256": "83f464909a62f3a5f43c9a21917c35b4cae7a21db4967c81c143a4921805de0c",
+    "co": 879722
   },
   "windows": {
-    "tep": "CaiDat-SonicRec-Windows-v2.17.exe",
-    "sha256": "96d3346744396c6085a1b2babce099962430443332a9c3f03b64b682d2c20ef0",
-    "co": 846356
+    "tep": "CaiDat-SonicRec-Windows-v2.18.exe",
+    "sha256": "2d2969a0247e1b9683639b0087bf898e510706e1e5ed472dd8e9ce739d6b9d61",
+    "co": 877552
   },
   "day_du": {
     "mac_chip_m": {
-      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.17.zip",
-      "sha256": "e94922c345e9b18aa6320e0ef070efa4400f7b9f68f5915ec12cac3066b6c0ce",
-      "co": 86956962
+      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.18.zip",
+      "sha256": "74216c4bab0aa529b0ff2000e5fe322cec8f450c763adb7ba70a26bee8c54a8d",
+      "co": 86943119
     },
     "windows": {
-      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.17.exe",
-      "sha256": "359f2761f1c0815c871360fe96192ff61f83377cffc526db3dad385baab11da4",
-      "co": 75263259
+      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.18.exe",
+      "sha256": "81cfedafbc1013d5467a2b1864f7e428031c79788828fd939b9cffb8d7479cd6",
+      "co": 75278987
     }
   }
 }
