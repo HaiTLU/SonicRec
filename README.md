@@ -4,22 +4,21 @@ Kho này chỉ giữ bản cài mới nhất của ứng dụng SonicRec: ghi â
 
 Giấy phép: SonicRec là phần mềm bản quyền, bảo lưu mọi quyền (tệp `LICENSE`). Gói đầy đủ mang sẵn ffmpeg theo GPL v3: xem `NOTICE-ffmpeg.md` và `GPL-3.0.txt`.
 
-Bản mới nhất: **v2.20**, ngày 17/10/2026.
+Bản mới nhất: **v2.21**, ngày 16/11/2026.
 
-1. Thẻ Cài đặt có khung Bản sao trên Drive: chọn thêm một thư mục Drive, iCloud, OneDrive hay Dropbox; bấm Đã duyệt thì máy chép biên bản và tệp Word sang đó.
-2. Mỗi tài khoản Google hiện số lần hỏi còn lại hôm nay, cảnh báo vàng khi còn ít.
-3. Số liệu dùng ẩn danh và báo lỗi: có thông báo ở lần mở đầu, tắt được ở thẻ Cài đặt.
-4. Ẩn Offline và Họp mật khỏi giao diện.
+1. Khi tài khoản Google chính hết lượt hoặc bị từ chối tạo sổ mới, máy tự chuyển sang tài khoản dự phòng và báo rõ đã hết lượt, thay cho câu "Có lỗi khi xử lý".
+2. Sửa lỗi bấm Làm lại ở cuộc họp có chọn thêm Tóm tắt hoặc Việc cần làm bị báo lỗi.
+3. Được chọn thư mục Google Drive, OneDrive làm nơi lưu cuộc họp; máy hiện cảnh báo để xác nhận trước.
 
 Cài lần đầu cho máy mới (gói đầy đủ, mang sẵn mọi thứ, cài khoảng một phút và không cần mạng):
 
-- Máy Windows: [CaiDat-SonicRec-Windows-DayDu-v2.20.exe](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Windows-DayDu-v2.20.exe)
-- Máy Mac chip Apple (M1 trở lên): [CaiDat-SonicRec-MacChipM-DayDu-v2.20.zip](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-MacChipM-DayDu-v2.20.zip)
+- Máy Windows: [CaiDat-SonicRec-Windows-DayDu-v2.21.exe](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Windows-DayDu-v2.21.exe)
+- Máy Mac chip Apple (M1 trở lên): [CaiDat-SonicRec-MacChipM-DayDu-v2.21.zip](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-MacChipM-DayDu-v2.21.zip)
 
 Gói nhỏ dưới đây cài cần mạng nên lâu hơn; máy Mac chip Intel dùng gói nhỏ:
 
-- Máy Mac: [CaiDat-SonicRec-Mac-v2.20.zip](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Mac-v2.20.zip)
-- Máy Windows: [CaiDat-SonicRec-Windows-v2.20.exe](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Windows-v2.20.exe)
+- Máy Mac: [CaiDat-SonicRec-Mac-v2.21.zip](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Mac-v2.21.zip)
+- Máy Windows: [CaiDat-SonicRec-Windows-v2.21.exe](https://raw.githubusercontent.com/HaiTLU/sonicrec/main/ban-cai/CaiDat-SonicRec-Windows-v2.21.exe)
 
 Máy đã cài thì không cần tải tay: ứng dụng tự báo có bản mới và hỏi trước khi cài.
 Riêng máy cài trước khi có tên v1 (thẻ Cài đặt hiện mã 7 ký tự, không có chữ v) chưa tự báo được: tải tay bản mới nhất một lần, các lần sau tự báo.

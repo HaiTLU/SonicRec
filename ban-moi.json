@@ -1,8 +1,8 @@
 {
-  "phien_ban": "4e15802",
-  "so_ban": "2.20",
-  "ngay": "17/10/2026",
-  "ghi_chu": "1. Thẻ Cài đặt có khung Bản sao trên Drive: chọn thêm một thư mục Drive, iCloud, OneDrive hay Dropbox; bấm Đã duyệt thì máy chép biên bản và tệp Word sang đó.\n2. Mỗi tài khoản Google hiện số lần hỏi còn lại hôm nay, cảnh báo vàng khi còn ít.\n3. Số liệu dùng ẩn danh và báo lỗi: có thông báo ở lần mở đầu, tắt được ở thẻ Cài đặt.\n4. Ẩn Offline và Họp mật khỏi giao diện.",
+  "phien_ban": "2d98648",
+  "so_ban": "2.21",
+  "ngay": "16/11/2026",
+  "ghi_chu": "1. Khi tài khoản Google chính hết lượt hoặc bị từ chối tạo sổ mới, máy tự chuyển sang tài khoản dự phòng và báo rõ đã hết lượt, thay cho câu \"Có lỗi khi xử lý\".\n2. Sửa lỗi bấm Làm lại ở cuộc họp có chọn thêm Tóm tắt hoặc Việc cần làm bị báo lỗi.\n3. Được chọn thư mục Google Drive, OneDrive làm nơi lưu cuộc họp; máy hiện cảnh báo để xác nhận trước.",
   "cac_ban_truoc": [
     "a5a8c2c",
     "9ff03ca",
@@ -34,28 +34,29 @@
     "3c60fcd",
     "e15ceab",
     "131b25d",
-    "e5848e5"
+    "e5848e5",
+    "4e15802"
   ],
   "mac": {
-    "tep": "CaiDat-SonicRec-Mac-v2.20.zip",
-    "sha256": "64aee0763da4d6b9fb10030a0908253182e69cfbc59ab24031773ba4938c4f3b",
-    "co": 911816
+    "tep": "CaiDat-SonicRec-Mac-v2.21.zip",
+    "sha256": "62cbc75471c57fcec324a917acb48224526afd7675f13f384161448d2c1a0b27",
+    "co": 913093
   },
   "windows": {
-    "tep": "CaiDat-SonicRec-Windows-v2.20.exe",
-    "sha256": "8e3a7d0318861a5276264ce191799fe3fb84f5812493f15e37ad9b0e85659ec1",
-    "co": 900812
+    "tep": "CaiDat-SonicRec-Windows-v2.21.exe",
+    "sha256": "54b18c42b573b18e1458ff5410ec53e89243c74a26987ab0620a367c1c1d4f57",
+    "co": 871492
   },
   "day_du": {
     "mac_chip_m": {
-      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.20.zip",
-      "sha256": "6077bee120554e432fa937a8c9f7cc95a6948a1fb8e5e5da4b1f8a81e66d508b",
-      "co": 86995931
+      "tep": "CaiDat-SonicRec-MacChipM-DayDu-v2.21.zip",
+      "sha256": "b6d4e01b3d652a590edbcdebf4134a666c8c690cd7f5f97cc142435b6a01e5c1",
+      "co": 86982992
     },
     "windows": {
-      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.20.exe",
-      "sha256": "723458b4f9fd954960f286539cd73d314d8ebe9d918def7b418e241f272b5a7c",
-      "co": 75324044
+      "tep": "CaiDat-SonicRec-Windows-DayDu-v2.21.exe",
+      "sha256": "beb311dd0a2b11aa1b105922ee9822342096f27d5af768004a0f24c34e5782bf",
+      "co": 75282832
     }
   }
 }
